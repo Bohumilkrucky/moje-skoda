@@ -1,0 +1,67 @@
+* {margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;}
+    
+    
+    header {background-color: rgb(76, 241, 92);
+             width: 100%;
+            height: 5rem;}
+     h3 {margin-left: 2rem;
+          padding-top:  1rem;
+          font-size: 30px;
+         }       
+    body {
+        background-color: rgb(204, 249, 218);
+    }
+    .nadpisy {display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;}
+    .nadpis {font-size: 20px;}
+    h2 {text-align: center;}
+     ul {padding-left: 5rem;}
+     nav {margin-top: 2rem;}
+
+     
+     
+     a {text-decoration: none;
+      font-size: 20px;}
+      a:hover {text-decoration-line: underline;}
+      h2 {font-size: 30px;
+    margin-top: 2rem;}
+    .obrazky {display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+            justify-content: center;}
+    table {border-spacing: 1rem;}
+     p {width: 90%;
+        padding-left: 2rem;
+        margin-top: 3rem;
+}  
+h6 {font-size: 22px;
+margin-top: 2rem;
+text-align: center;}
+.nabidka-motoru {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+    gap: 2rem;
+}
+h5 {font-size: 22px;}
+
+
+footer {
+    background-color: black;
+    height: 5rem;
+    margin-top: 2rem;
+
+  }
+  h4 {color: rgb(76, 241, 92);
+padding-left: 5rem;
+padding-top: 2rem;
+font-size: 20px;
+}
+h4:hover{text-decoration-line: underline;}
