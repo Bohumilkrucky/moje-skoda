@@ -17,12 +17,13 @@
     .nadpisy {display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: center;}
+    justify-content: center;
+  margin-top: 2rem;}
     .nadpis {font-size: 20px;}
     h2 {text-align: center;}
      ul {padding-left: 5rem;}
-     nav {margin-top: 2rem;}
-
+     nav {margin-top: 1rem;}
+     
      img {height: 200px;}
      
      a {text-decoration: none;
